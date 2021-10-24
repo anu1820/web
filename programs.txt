@@ -1,0 +1,4 @@
+1 Enter any no and print reverse of a no.
+2 enter any no print sum of digit of no.
+3 enter any no and check the palindron no.
+4 enter any no and check amstrong no or not.
